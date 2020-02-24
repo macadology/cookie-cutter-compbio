@@ -1,4 +1,4 @@
-# Mkdocs Guide 
+# Mkdocs Guide
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
@@ -14,3 +14,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Install conda environment
+```bash
+conda create --prefix ./environment/md_env python=3.7
+pip install -r md_requirements.txt
+```
