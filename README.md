@@ -1,10 +1,8 @@
 # Cookiecutter Data Science
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
-
-
-#### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
-
+#### [Project homepage](https://github.com/Macadish/cookie-cutter-compbio)
+Based on the following [template.](http://drivendata.github.io/cookiecutter-data-science/)
 
 ### Requirements to use the cookiecutter template:
 -----------
@@ -21,7 +19,6 @@ or
 $ conda config --add channels conda-forge
 $ conda install cookiecutter
 ```
-
 
 ### To start a new project, run:
 ------------
@@ -85,10 +82,6 @@ The directory structure of your new project looks like this:
         ├── __init__.py
         └── visualize.py
 ```
-
-## Contributing
-
-We welcome contributions! [See the docs for guidelines](https://drivendata.github.io/cookiecutter-data-science/#contributing).
 
 ### Installing development requirements
 ------------
