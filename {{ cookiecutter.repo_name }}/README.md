@@ -5,6 +5,7 @@
 
 Project Organization
 ------------
+```
 .
 ├── bin                     <- Utility Functions
 │   ├── jptnb.sh            <- Launch Jupyter Notebook
@@ -51,7 +52,7 @@ Project Organization
     └── visualization       <- visualizing data
         ├── __init__.py
         └── visualize.py
-
+```
 
 --------
 
