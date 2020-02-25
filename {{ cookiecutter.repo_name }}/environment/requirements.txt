@@ -14,6 +14,15 @@ jupyter
 jupyter-console
 bash_kernel
 
+# scientific computing
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+scikit-bio
+xlrd
+
 {% if cookiecutter.python_interpreter != 'python3' %}
 # backwards compatibility
 pathlib2
