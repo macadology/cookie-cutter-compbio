@@ -23,6 +23,7 @@ matplotlib
 scikit-learn
 scikit-bio
 xlrd
+openpyxl
 
 {% if cookiecutter.python_interpreter != 'python3' %}
 # backwards compatibility
