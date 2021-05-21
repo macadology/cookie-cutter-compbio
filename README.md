@@ -23,7 +23,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/Macadish/cookie-cutter-compbio
+    cookiecutter https://github.com/macadology/cookie-cutter-compbio
 
 
 [![asciicast](https://asciinema.org/a/244658.svg)](https://asciinema.org/a/244658)
